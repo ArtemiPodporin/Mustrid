@@ -17,9 +17,9 @@ tahvel.create_rectangle(25,200,   260,150, fill="#24cde0")
 tahvel.create_polygon(25,50, 110,125, 25,200, fill="black")
 
 #3 vene 
-tahvel.create_rectangle(22,50,  260,150, fill="wheat")
-tahvel.create_rectangle(22,100,   260,150, fill="blue")
-tahvel.create_rectangle(22,200,   260,150, fill="red")
+tahvel.create_rectangle(25,250,  250,300, fill="white")
+tahvel.create_rectangle(25,350,   250,300, fill="red")
+
 
 
 
